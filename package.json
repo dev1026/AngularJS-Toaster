@@ -17,15 +17,15 @@
   "dependencies": {},
   "devDependencies": {
     "angular": ">1.2.6",
-    "angular-animate": "~1.2.8",
+    "angular-animate": "~1.7.7",
     "angular-mocks": "^1.4.7",
-    "coveralls": "2.13.1",
-    "jasmine-core": "^2.3.4",
-    "karma": "1.7.0",
+    "coveralls": "3.0.2",
+    "jasmine-core": "^3.3.0",
+    "karma": "4.0.0",
     "karma-chrome-launcher": "^2.2.0",
-    "karma-cli": "1.0.1",
+    "karma-cli": "2.0.0",
     "karma-coverage": "^1.1.1",
-    "karma-jasmine": "^1.1.0",
+    "karma-jasmine": "^2.0.1",
     "uglify-js": "3.4.9"
   },
   "jspm": {
